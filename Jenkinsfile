@@ -22,8 +22,10 @@ pipeline {
 			}
 		}
 		stage('Test') {
-			script {
-				sh 'echo "Successful"'
+			steps{
+			    script {
+				    sh 'echo "Successful"'
+				}
 			}
 		}
 		stage('Build docker image') {

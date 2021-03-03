@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: capstone-project-container # '-' indicates array
-        image: vakkasoglu/sba-kubernetes-cluster
+        image: vakkasoglu/capstone-project
         ports:
         - containerPort: 5000 # it maps the port 5000 inside the container
 ---

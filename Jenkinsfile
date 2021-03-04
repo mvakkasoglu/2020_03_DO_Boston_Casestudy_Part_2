@@ -65,7 +65,7 @@ pipeline {
 		    steps {
 		        dir('./2020_03_DO_Boston_Casestudy_Part_2') {
 				    script {
-		                sh 'minikube service capstone-project-service'
+		                // sh 'minikube service capstone-project-service'
 		                sh 'echo "Application deployed" '
 					}
 		        }

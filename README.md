@@ -4,7 +4,8 @@
 
 
 Requirements for this project can be found [here](https://docs.google.com/document/d/1J5rvYyM-EjEq1GFcrTuVrwn6q1INIp6U6J1MS3OhOJM/edit?usp=sharing)
- 
+
+You can finde the presentation [here] (https://docs.google.com/presentation/d/1vbWeqcB3e70dhrJwoBTGotMDHxniwKJaE7BBsvFqYRY/edit?usp=sharing)
  
 ### Steps followed: 
 
